@@ -64,7 +64,7 @@
             </div>
         </div>
     </div>
-    
+
 </div>
 <script src="{{ asset('vendor/laravel-layui-admin/lib/layui/layui.js') }}"></script>
 <script src="{{ asset('vendor/laravel-layui-admin/js/admin.js') }}"></script>
