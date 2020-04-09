@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99e2884-6560-47c6-854c-6a1d7cd448ac" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/moell/laravel-layui-admin/views/layouts/admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/vendor/moell/laravel-layui-admin/views/layouts/admin.blade.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,8 +36,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vendor/moell/laravel-layui-admin/views/layouts/admin.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="387">
+              <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -51,6 +51,7 @@
       <find>ADMIN_SYSTEM_NAME</find>
       <find>修改密码</find>
       <find>退出</find>
+      <find>moell/laravel-layui-admin</find>
     </findStrings>
     <dirStrings>
       <dir>$PROJECT_DIR$</dir>
@@ -174,32 +175,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="laravel_item" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_item" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_item" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_item" type="462c0819:PsiDirectoryNode" />
-              <item name="database" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_item" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_item" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="laravel_item" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel_item" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -237,12 +213,12 @@
       <option name="presentableId" value="Default" />
       <updated>1586423785110</updated>
       <workItem from="1586423786710" duration="921000" />
-      <workItem from="1586425062819" duration="3017000" />
+      <workItem from="1586425062819" duration="3185000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3938000" />
+    <option name="totallyTimeSpent" value="4106000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -427,8 +403,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/moell/laravel-layui-admin/views/layouts/admin.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="387">
+          <caret line="66" column="4" selection-start-line="66" selection-start-column="4" selection-end-line="66" selection-end-column="4" />
         </state>
       </provider>
     </entry>
