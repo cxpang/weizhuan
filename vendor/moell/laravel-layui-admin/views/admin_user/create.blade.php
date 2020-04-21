@@ -13,6 +13,17 @@
                 <input type="text" name="email" required value="{{ old("email") }}"  lay-verify="email" placeholder="请输入邮箱" autocomplete="off" class="layui-input">
             </div>
         </div>
+
+        <div class="layui-form-item">
+            <label class="layui-form-label">用户类型</label>
+            <div class="layui-input-block">
+                <select name="admin_type" lay-verify="required">
+                    <option value="1" selected>管理员</option>
+                    <option value="2">商户</option>
+                </select>
+            </div>
+        </div>
+
         <div class="layui-form-item">
             <label class="layui-form-label">密码框</label>
             <div class="layui-input-inline">

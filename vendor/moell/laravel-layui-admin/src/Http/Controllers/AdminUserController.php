@@ -38,10 +38,9 @@ class AdminUserController extends Controller
     public function store(CreateOrUpdateRequest $request)
     {
         $data = $request->only([
-            'name', 'email', 'password'
+            'name', 'email', 'password','admin_type'
         ]);
         $data['password'] = bcrypt($data['password']);
-
         AdminUser::create($data);
 
         return $this->success();
