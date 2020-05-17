@@ -1,7 +1,7 @@
 <html>
 <head>
     <meta charset="utf-8">
-    <title>玩转首页</title>
+    <title>玩赚首页</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
@@ -15,7 +15,7 @@
                 <div class="col-md-2"></div>
                 <div class="col-md-4">
                     <div class="title">
-                        <span>微赚</span>
+                        <span>玩赚</span>
                         <span class="small-title">|ASO智能投放平台</span>
                     </div>
                 </div>
@@ -29,7 +29,6 @@
                         效果好 风险低 转化高
                     </div>
                     <div class="header-btn-margin">
-                        <button type="button" class="btn btn-default header-btn">我要投放</button>
                     </div>
                 </div>
                 <div class="col-md-3">
